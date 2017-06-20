@@ -1,12 +1,12 @@
 # HelloGitHub
-##第一次尝试使用markdown
--听说它语法简单
--而且好记
--于是试试
+## 第一次尝试使用markdown
+- 听说它语法简单
+- 而且好记
+- 于是试试
 
-1.列表形式多样
-2.还能编号
-3.多少都可以
+1. 列表形式多样
+2. 还能编号
+3. 多少都可以
 
 我从[简书](http://www.jianshu.com)学习的
 它说还能够插入图片![](https://static.zhihu.com/static/favicon.ico)
